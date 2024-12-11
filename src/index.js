@@ -1,7 +1,15 @@
 import {pageLoadout} from "./restaurant.js";
+// import { LoaderOptionsPlugin } from 'webpack';
 import "./style.css";
-import Salt from './images/salt.jpg';
 import Aircon from './images/aircon.jpg';
+
+pageLoadout();
+
+
+// const divContent = document.querySelector("div#content");
+// const saltImg = document.createElement("img");
+// saltImg.src = Salt;
+// divContent.appendChild(saltImg);
 
 
 

@@ -6,21 +6,3 @@
     font-style: normal;
 
 }
-
-body{
-    font-size: 1.5em;
-    font-family: "ambleregular", serif;
-    display: grid;
-    height: 98vh;
-    margin: 0;
-    gap: 5px;
-    grid-template-rows: 1fr 4fr;
-
-}
-body > *{
-    background-color: #eccccc;
-}
-img{
-    max-width: 20%;
-    max-height: 20%;
-}
